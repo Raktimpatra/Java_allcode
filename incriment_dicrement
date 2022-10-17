@@ -1,0 +1,17 @@
+public class incriment_dicrement {
+    public static void main(String[] args) {
+        int i = 56;
+        System.out.println("increment");
+        System.out.println(i++);
+        System.out.println(i);
+        System.out.println(++i);
+        System.out.println(i);
+
+        int j = 20;
+        System.out.println("decrement");
+        System.out.println(j--);
+        System.out.println(j);
+        System.out.println(--j);
+        System.out.println(j);
+    }
+}
