@@ -1,0 +1,9 @@
+public class cgpa_calculate {
+    public static void main(String[] args) {
+        float sub1 = 65;
+        float sub2 = 66;
+        float sub3 = 68;
+        float cgpa = (sub1 + sub2 + sub3)/30;
+        System.out.println(cgpa);
+    }
+}
